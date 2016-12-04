@@ -1,4 +1,5 @@
 /* eslint-disable */
+import React from 'react'
 const features = [
   {
     title: 'feature A',
@@ -22,53 +23,25 @@ const navLinks = [
 ]
 
 // // grab the handlebar templates
-const jumbotron = require('lander/templates/jumbotron.handlebars')
-const grid = require('lander/templates/grid.handlebars')
-const navbar = require('lander/templates/navbar.handlebars')
-
-// test custom
-const custom = require('www/templates/custom.handlebars')
-
+import Navbar from 'lander/navbar'
+import Footer from 'lander/footer'
+import logo from 'www/images/logo.png'
 // define some globals
-const site = {
+const locals = {
   sitename: "Etcher",
   siteurl: "http://etcher.io",
+  logo: logo,
+  title: "etcher",
   lead: "Flash OS images to SD cards & USB drives, safely and easily."
 }
 
-const echo = (string) => {
-  return string
+const Layout = () => {
+  return (
+    <div>
+      <Navbar />
+      <Footer />
+    </div>
+  );
 }
 
-const blocks = [
-  navbar({
-    global: site,
-    local: {
-      image: require('www/images/logo.png'),
-      items: navLinks
-    }
-  }),
-  jumbotron({
-    global: site,
-    local: {
-      image: require('www/images/feature.png'),
-      action: {
-        text: echo('Try Etcher'),
-        href: '/#downloads'
-      },
-      class: 'p-3'
-    }
-  }),
-  grid({
-    global: site,
-    local: {
-      title: 'Features',
-      lead: "We do all the stuff",
-      items: features,
-      class: 'p-3'
-    }
-  }),
-  custom()
-]
-
-module.exports = blocks
+export { Layout, locals }

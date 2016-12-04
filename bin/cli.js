@@ -22,6 +22,7 @@
  * @module Lander.CLI
  */
 
+ require('babel-register')()
 const yargs = require('yargs')
 const chalk = require('chalk')
 const lander = require('../lib/lander')
