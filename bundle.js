@@ -10804,7 +10804,7 @@
 		}
 	}
 
-	/* WEBPACK VAR INJECTION */}.call(exports, "?http://localhost:3000"))
+	/* WEBPACK VAR INJECTION */}.call(exports, "?http://localhost:undefined"))
 
 /***/ },
 /* 14 */
