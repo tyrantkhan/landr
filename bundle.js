@@ -10698,6 +10698,8 @@
 	'use strict';
 	__webpack_require__(20);
 
+	console.log(window.mixpanel)
+
 
 /***/ },
 /* 20 */

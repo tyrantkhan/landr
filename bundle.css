@@ -4926,6 +4926,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 footer img {
   max-width: 150px; }
 
+.twitter-tweet-button {
+  display: inline-block;
+  vertical-align: middle; }
+
 body {
   font-family: 'proxima-nova', sans-serif, Arial; }
 
@@ -4963,3 +4967,7 @@ body {
 
 footer img {
   max-width: 150px; }
+
+.twitter-tweet-button {
+  display: inline-block;
+  vertical-align: middle; }
