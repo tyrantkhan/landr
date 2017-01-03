@@ -10697,8 +10697,7 @@
 
 	'use strict';
 	__webpack_require__(20);
-
-	console.log(window.mixpanel)
+	console.log('landrs source is loaded');
 
 
 /***/ },
