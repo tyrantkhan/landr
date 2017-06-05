@@ -52,13 +52,13 @@ webpackJsonp([6],{
 	};
 	
 	exports.components = {
-	  "page-component---src-pages-index-js": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=page-component---src-pages-index-js!./src/pages/index.js"),
-	  "page-component---src-pages-changelog-js": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=page-component---src-pages-changelog-js!./src/pages/changelog.js")
+	  "page-component---src-pages-changelog-js": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=page-component---src-pages-changelog-js!./src/pages/changelog.js"),
+	  "page-component---src-pages-index-js": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=page-component---src-pages-index-js!./src/pages/index.js")
 	};
 	
 	exports.json = {
-	  "index.json": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=path---index!./.cache/json/index.json"),
-	  "changelog.json": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=path---changelog!./.cache/json/changelog.json")
+	  "changelog.json": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=path---changelog!./.cache/json/changelog.json"),
+	  "index.json": __webpack_require__("./node_modules/bundle-loader/index.js?lazy&name=path---index!./.cache/json/index.json")
 	};
 	
 	exports.layouts = {
@@ -94,14 +94,14 @@ webpackJsonp([6],{
 
 	module.exports = [
 		{
-			"componentChunkName": "page-component---src-pages-index-js",
-			"jsonName": "index.json",
-			"path": "/"
-		},
-		{
 			"componentChunkName": "page-component---src-pages-changelog-js",
 			"jsonName": "changelog.json",
 			"path": "/changelog/"
+		},
+		{
+			"componentChunkName": "page-component---src-pages-index-js",
+			"jsonName": "index.json",
+			"path": "/"
 		}
 	];
 
@@ -431,4 +431,4 @@ webpackJsonp([6],{
 /***/ })
 
 });
-//# sourceMappingURL=app-48605c86bc8a9c607519.js.map
+//# sourceMappingURL=app-bf98295fb1167cf08bbc.js.map
