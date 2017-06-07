@@ -1,20 +1,20 @@
 {
   "assetsByChunkName": {
     "commons": [
-      "commons-f25c1e8f56f39d4c0f6d.js",
-      "commons-f25c1e8f56f39d4c0f6d.js.map"
+      "commons-0b7070075d5c5cb7b0f2.js",
+      "commons-0b7070075d5c5cb7b0f2.js.map"
     ],
     "layout-component---index": [
       "layout-component---index-d87b8f42ee511ab367fb.js",
       "layout-component---index-d87b8f42ee511ab367fb.js.map"
     ],
-    "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-35e21e3c40ecdc3d0581.js",
-      "page-component---src-pages-index-js-35e21e3c40ecdc3d0581.js.map"
+    "page-component---gatsby-plugin-readme-templates-index-js": [
+      "page-component---gatsby-plugin-readme-templates-index-js-9a2165b16d8dd52de5d0.js",
+      "page-component---gatsby-plugin-readme-templates-index-js-9a2165b16d8dd52de5d0.js.map"
     ],
-    "page-component---src-pages-changelog-js": [
-      "page-component---src-pages-changelog-js-fe58c81186bbfe007243.js",
-      "page-component---src-pages-changelog-js-fe58c81186bbfe007243.js.map"
+    "page-component---gatsby-plugin-changelog-templates-changelog-js": [
+      "page-component---gatsby-plugin-changelog-templates-changelog-js-b472473eb80c7b3ca940.js",
+      "page-component---gatsby-plugin-changelog-templates-changelog-js-b472473eb80c7b3ca940.js.map"
     ],
     "path---index": [
       "path---index-a818ca997e698061990a.js",
@@ -25,8 +25,8 @@
       "path---changelog-a6fa672453255bc74c53.js.map"
     ],
     "app": [
-      "app-bf98295fb1167cf08bbc.js",
-      "app-bf98295fb1167cf08bbc.js.map"
+      "app-7adb151d6822d0b4cdb0.js",
+      "app-7adb151d6822d0b4cdb0.js.map"
     ]
   }
 }
