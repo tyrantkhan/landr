@@ -478,8 +478,8 @@ webpackJsonp([6],{
 	  addPagesArray: function addPagesArray(newPages) {
 	    pages = newPages;
 	    var pathPrefix = "";
-	    if (false) {
-	      pathPrefix = __PATH_PREFIX__;
+	    if (true) {
+	      pathPrefix = ("/landr");
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
