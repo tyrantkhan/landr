@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "commons": [
-      "commons-0b7070075d5c5cb7b0f2.js",
-      "commons-0b7070075d5c5cb7b0f2.js.map"
+      "commons-c7839ef1671ef665736f.js",
+      "commons-c7839ef1671ef665736f.js.map"
     ],
     "layout-component---index": [
-      "layout-component---index-d87b8f42ee511ab367fb.js",
-      "layout-component---index-d87b8f42ee511ab367fb.js.map"
+      "layout-component---index-da8c74e9c3ae452206c7.js",
+      "layout-component---index-da8c74e9c3ae452206c7.js.map"
     ],
-    "page-component---gatsby-plugin-readme-templates-index-js": [
-      "page-component---gatsby-plugin-readme-templates-index-js-9a2165b16d8dd52de5d0.js",
-      "page-component---gatsby-plugin-readme-templates-index-js-9a2165b16d8dd52de5d0.js.map"
+    "page-component---landr-components-www-pages-index-js": [
+      "page-component---landr-components-www-pages-index-js-ffa76e6da7fb85768ef7.js",
+      "page-component---landr-components-www-pages-index-js-ffa76e6da7fb85768ef7.js.map"
     ],
-    "page-component---gatsby-plugin-changelog-templates-changelog-js": [
-      "page-component---gatsby-plugin-changelog-templates-changelog-js-b472473eb80c7b3ca940.js",
-      "page-component---gatsby-plugin-changelog-templates-changelog-js-b472473eb80c7b3ca940.js.map"
+    "page-component---landr-components-www-pages-changelog-js": [
+      "page-component---landr-components-www-pages-changelog-js-6a209231ff1dc733215c.js",
+      "page-component---landr-components-www-pages-changelog-js-6a209231ff1dc733215c.js.map"
     ],
     "path---index": [
-      "path---index-a818ca997e698061990a.js",
-      "path---index-a818ca997e698061990a.js.map"
+      "path---index-534983439e70ace3fad2.js",
+      "path---index-534983439e70ace3fad2.js.map"
     ],
     "path---changelog": [
       "path---changelog-a6fa672453255bc74c53.js",
       "path---changelog-a6fa672453255bc74c53.js.map"
     ],
     "app": [
-      "app-7adb151d6822d0b4cdb0.js",
-      "app-7adb151d6822d0b4cdb0.js.map"
+      "app-7c4825f6eb5d0d621deb.js",
+      "app-7c4825f6eb5d0d621deb.js.map"
     ]
   }
 }

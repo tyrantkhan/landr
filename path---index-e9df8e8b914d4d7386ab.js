@@ -1,0 +1,2 @@
+webpackJsonp([4],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,o){e.exports={data:{readme:{title:"landr",lead:"source code = website",badges:"",installation:{title:"Quick start guide",content:"<p>Install:</p>\n<pre><code>npm i -g landr\n</code></pre>\n<p>From the root of your local git repo run:</p>\n<pre><code>landr serve\n</code></pre>\n<p>Visit <code>http://localhost:8080</code>.</p>\n<p>Deploy to github pages:</p>\n<pre><code>landr deploy\n</code></pre>\n"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-e9df8e8b914d4d7386ab.js.map
